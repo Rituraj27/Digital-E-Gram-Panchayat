@@ -16,20 +16,21 @@ Digital Gram Panchayat is a web-based application designed to streamline the app
 
 ### Frontend
 
-- **[React.js](https://reactjs.org/)**: Framework for building interactive user interfaces.
-- **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework for fast and flexible styling.
-- **[ShadCN](https://shadcn.dev/)**: Component library for streamlined UI components.
-- **[Vite](https://vitejs.dev/)**: Modern build tool for optimized development and production builds.
-- **Deployment**: Hosted on **[Vercel](https://vercel.com/)** for seamless serverless deployment.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-FED7D7?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Backend
 
-- **[Node.js](https://nodejs.org/)** & **[Express.js](https://expressjs.com/)**: Backend runtime and framework for handling server-side logic and API routing.
-- **[MongoDB](https://www.mongodb.com/)**: NoSQL database for flexible, scalable data storage.
-- **[JWT (JSON Web Token)](https://jwt.io/)**: For secure user and employee authentication.
-- **[bcrypt](https://www.npmjs.com/package/bcrypt)**: Hashing library for password security.
-- **[Twilio](https://www.twilio.com/)**: SMS integration for real-time notifications.
-- **Deployment**: Hosted on **[Render](https://render.com/)** for robust, scalable backend hosting.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-00C7B7?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0099FF?style=for-the-badge&logo=render&logoColor=white)
 
 ## Getting Started
 
@@ -46,6 +47,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/digital-gram-panchayat.git
    cd digital-gram-panchayat
+
 
 ##HomePage
 
